@@ -4,35 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omendrag&label=Profile%20views&color=0e75b6&style=flat" alt="omendrag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omendra pratap singh" target="blank"><img src="https://img.shields.io/twitter/follow/omendra pratap singh?logo=twitter&style=for-the-badge" alt="omendra pratap singh" /></a> </p>
-- Click `Connect with Spotify` button below to grant permission
-
-[<img src="/img/btn-spotify.png">](https://spotify-github-profile.omsinghbaghel.com/api/login)
-
-## Example
-
-- Default theme
-
-![spotify-github-profile](/img/default.svg)
-
-- Compact theme
-
-![spotify-github-profile](/img/compact.svg)
-
-- Natemoo-re theme
-
-![spotify-github-profile](/img/natemoo-re.svg)
-
-- Novatorem theme
-
-![spotify-github-profile](/img/novatorem.svg)
-
-- Karaoke theme
-
-![spotify-github-profile](/img/karaoke.svg)
-
-
-
-
+![Spotify Now Playing](https://spotify-now-playing-kittinan.vercel.app/api/spotify)
 - 📫 How to reach me **omsinghbaghel190@gmail.com**
 
 - ⚡ Fun fact **I’m always up for a tech event, whether it's coding, entrepreneurship, or cloud computing—I just love being in the loop!**
