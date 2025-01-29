@@ -29,4 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omendrag&show_icons=true&locale=en" alt="omendrag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omendrag&" alt="omendrag" /></p
+![Spotify Now Playing](https://spotify-now-playing-kittinan.vercel.app/api/spotify)
+
                                                                                                                  
