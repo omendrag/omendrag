@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omendrag&label=Profile%20views&color=0e75b6&style=flat" alt="omendrag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omendra pratap singh" target="blank"><img src="https://img.shields.io/twitter/follow/omendra pratap singh?logo=twitter&style=for-the-badge" alt="omendra pratap singh" /></a> </p>
-![Spotify Now Playing](https://spotify-now-playing-kittinan.vercel.app/api/spotify)
+
+
 - 📫 How to reach me **omsinghbaghel190@gmail.com**
 
 - ⚡ Fun fact **I’m always up for a tech event, whether it's coding, entrepreneurship, or cloud computing—I just love being in the loop!**
@@ -29,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omendrag&" alt="omendrag" /></p
                                                                                                                  
-https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zug3pkcy3sfvmgous3lrbobl3u&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zug3pkcy3sfvmgous3lrbobl3u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)                                                                                                  
