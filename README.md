@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omendra Pratap Singh</h1>
 <h3 align="center">Tech Explorer | Innovator | Lifelong Learner</h3>
-<img align="right" alt ="coding" width="400" src ="https://images.app.goo.gl/YAG4Ari92J7WWmrj8"
+<img align="right" alt ="coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0DB5vnJKIGHIs31zjh1-do&ust=1738262966810000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICw5cvMm4sDFQAAAAAdAAAAABAJ"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omendrag&label=Profile%20views&color=0e75b6&style=flat" alt="omendrag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omendra pratap singh" target="blank"><img src="https://img.shields.io/twitter/follow/omendra pratap singh?logo=twitter&style=for-the-badge" alt="omendra pratap singh" /></a> </p>
