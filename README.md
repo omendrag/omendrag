@@ -4,7 +4,34 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omendrag&label=Profile%20views&color=0e75b6&style=flat" alt="omendrag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omendra pratap singh" target="blank"><img src="https://img.shields.io/twitter/follow/omendra pratap singh?logo=twitter&style=for-the-badge" alt="omendra pratap singh" /></a> </p>
-https://spotify-github-profile.kittinanx.com/api/callback?code=AQDp5d2klQgfFBsrlZPpwCBwzoEAyZ7Bfbuhwsg0CivkegxfVgwO5hr1m0oEvvAWhVKfiL1iVSgtK2nUnazeep7HxNl_xjjRGZSMFPL5A4RidJ6_8ZVyllXIO7xeKqtlDSA3JP_e74XNlaX6plkZS0MsjERZTHcrmzUXtcAvBdvpD2Yk791nZrCLMyk2XXA76GwI2W8llmconp7BT-XB2KQm9n9lKaN96TVYATqClq0HnfVAWXlJA-Uwu--c6D1oQsBh9e9PuDFNHOHr49mNhKglGeb8
+- Click `Connect with Spotify` button below to grant permission
+
+[<img src="/img/btn-spotify.png">](https://spotify-github-profile.omsinghbaghel.com/api/login)
+
+## Example
+
+- Default theme
+
+![spotify-github-profile](/img/default.svg)
+
+- Compact theme
+
+![spotify-github-profile](/img/compact.svg)
+
+- Natemoo-re theme
+
+![spotify-github-profile](/img/natemoo-re.svg)
+
+- Novatorem theme
+
+![spotify-github-profile](/img/novatorem.svg)
+
+- Karaoke theme
+
+![spotify-github-profile](/img/karaoke.svg)
+
+
+
 
 - 📫 How to reach me **omsinghbaghel190@gmail.com**
 
