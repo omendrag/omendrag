@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omendra Pratap Singh</h1>
 <h3 align="center">Tech Explorer | Innovator | Lifelong Learner</h3>
-
+<img align="right" alt ="coding" width="400" src ="https://images.app.goo.gl/YAG4Ari92J7WWmrj8"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omendrag&label=Profile%20views&color=0e75b6&style=flat" alt="omendrag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omendrag" alt="omendrag" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/omendra pratap singh" target="blank"><img src="https://img.shields.io/twitter/follow/omendra pratap singh?logo=twitter&style=for-the-badge" alt="omendra pratap singh" /></a> </p>
 
